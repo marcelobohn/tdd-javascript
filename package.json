@@ -1,0 +1,11 @@
+{
+  "name": "tdd-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "author": "@marcelobohn",
+  "license": "ISC"
+}
