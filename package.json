@@ -7,5 +7,9 @@
     "test": "lab"
   },
   "author": "@marcelobohn",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "code": "^4.1.0",
+    "lab": "^13.1.0"
+  }
 }
